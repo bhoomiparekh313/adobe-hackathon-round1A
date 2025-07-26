@@ -1,13 +1,9 @@
 import os
 import fitz
-import nltk
 
 from extract_fonts_and_spacings import extract_text_spans
 from heading_classifier import cluster_font_sizes, classify_headings
 from outline_writer import write_outline_json
-
-# Make sure NLTK stopwords are available (downloads on first run)
-nltk.download('stopwords', quiet=True)
 
 INPUT_DIR = "input"
 OUTPUT_DIR = "output"
@@ -37,7 +33,7 @@ def main():
             continue
         pdf_path = os.path.join(INPUT_DIR, filename)
         spans = extract_text_spans(pdf_path)
-        size_to_level, kmeans = cluster_font_sizes(spans)
+        size_to_level, _ = cluster_font_sizes(spans)
         headings = classify_headings(spans, size_to_level)
         title = extract_title(pdf_path)
         output_path = os.path.join(OUTPUT_DIR, filename.replace(".pdf", ".json"))

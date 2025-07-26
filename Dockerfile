@@ -6,8 +6,7 @@ COPY . .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-RUN python -m nltk.downloader stopwords
-
+ENV NLTK_DATA=/app/nltk_data
 ENV PYTHONUNBUFFERED=1
 
 CMD ["python", "main.py"]

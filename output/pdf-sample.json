@@ -2,13 +2,23 @@
   "title": "This is a test PDF file",
   "outline": [
     {
-      "level": "H2",
-      "text": "Anyone, anywhere always print correctly",
+      "level": "H1",
+      "text": "Adobe Acrobat PDF Files Anyone, anywhere",
       "page": 1
     },
     {
       "level": "H2",
-      "text": "exactly",
+      "text": "PDF files always print correctly",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PDF files always display exactly",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "version incompatibilities. anyone.",
       "page": 1
     }
   ]
