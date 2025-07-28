@@ -3,7 +3,17 @@
   "outline": [
     {
       "level": "H1",
-      "text": "Adobe Acrobat PDF Files Anyone, anywhere",
+      "text": "Adobe Acrobat PDF Files",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Anyone, anywhere",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "can open a PDF file. All you need is the free Adobe Acrobat",
       "page": 1
     },
     {
@@ -18,7 +28,17 @@
     },
     {
       "level": "H2",
-      "text": "version incompatibilities. anyone.",
+      "text": "as created, regardless of fonts, software, and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The free Acrobat Reader is easy to download and can be freely distributed by",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Compact PDF files are smaller than their source files and download a",
       "page": 1
     }
   ]

@@ -89,6 +89,7 @@ Open a terminal in your project root and run:
 
 
 docker build --platform linux/amd64 -t outline-extractor .
+
 This compiles your code, installs requirements, and bakes in the NLTK stopwords so the container is fully offline-enabled.
 
 ### 2. Prepare Your Inputs
