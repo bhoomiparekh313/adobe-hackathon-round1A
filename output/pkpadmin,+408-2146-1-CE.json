@@ -1,0 +1,4920 @@
+{
+  "title": "Untitled",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "cartographic perspectives cartographic    perspectives",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Number 50,  Winter 2005",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "journal of the North American Cartographic Information Society",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "NACIS WEB SITE www.nacis.org",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "in this issue In Memory of Bill Loy",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Stuart Allan fEATurEd ArTIClES",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Unusual Display of DEMs J. Ronald Eyton",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Miscommunicating With Isoline Preference Maps:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Design Principles for Thematic Maps",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Daniel R. Montello and M. Violet Gray",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Large-scale Topographic Web Maps Using",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Scalable Vector Graphics",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Peter Pavlicko and Michael P. Peterson",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CArTOGrAPHIC TECHNIQuES",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Pre-Press and Technical Support Technician",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mark Loppnow MAP lIBrArY BullETIN BOArd",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Penn State University Libraries:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Building a Literary Map for the Web",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Joanne M. Perry rEVIEWS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Connecting Our World: GIS Web Services",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Reviewed by David Broscoe",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "A Railroad Atlas of the United States in 1946:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Volume 1: The Mid-Atlantic States",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Reviewed by Fritz C. Kessler continued on page 3",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Letter from the Editor (continued on page 3)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CP Cartographic Perspectives",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5 times already this morning (and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Special Issue Cartographic Perspec-",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Assistant Editor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "James R. Anderson, Jr. FREAC",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Florida State University Tallahassee, FL 32306-2641",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(850) 644-2883 fax: (850) 644-7360",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "janderson@admin.fsu.edu Book Review Editor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Ren Vasiliev Department of Geography",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "SUNY @ Geneseo 1 College Circle",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Geneseo, NY 14454 (585) 245-5297",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "vasiliev@geneseo.edu",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic Techniques Editor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Charlie Frye ESRI",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "380 New York Street Opinion Column Editor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Scott Freundschuh 329 Cina Hall",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Map Library Bulletin Board Editor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Chris Mixon 231 Mell Street",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Editor Scott M. Freundschuh",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "University of Minnesota, Duluth",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Duluth, MN 55812 (218) 726-6226",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "fax: (218) 726-6386 sfreunds@d.umn.edu",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "cartographic    perspectives ISSN 1048-9085",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic Perspectives Jan Mersey",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "University of Guelph Elisabeth S. Nelson",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Margaret Pearce Nadine Schuurman",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Erik Steiner Ren Vasiliev",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Denis Wood Sara Fabrikant",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Ken Foote Pat Gilmartin",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Mike Hermann John B. Krygier",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Michael Leitner Robert Lloyd",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "about the cover CP",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives (",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "letter from editor continued )",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "tives, that celebrates and honors",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "men, is currently in production.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "published as CP",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "51 in May of 2005. Two-thousand Five also marks",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the 25 anniversary of the North",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "American Cartographic Informa-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "tion Society. Those 25 years went",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "observance of this anniversary,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "52 will review the last 16 years",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the current editor (can you name",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "of temporal information leading",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic Perspectives",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "was first published",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "in March of 1989 with co-editors",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "David DiBiase and Karl Proehl.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Prior to this time, NACIS first",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "published 23 issues of Map Gap",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(edited by Karl Proehl), and then",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "8 issues of Cartographic Information",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(edited by Ruth Anderson Rowles).",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Then Cartographic Perspectives",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The NACIS Publications Commit-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "tee, in 1988 (or there ‘bouts), said",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "to publish papers and information",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "that support the stated objectives",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic Per- spectives",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "in this issue (continued)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "VISuAl fIEldS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Cordillera Huayhuash, 1:50,000",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Designed by Martin Gamache COlOr fIGurES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Unusual Displays of DEMs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Large-scale Topographic Web Maps Using Scalable",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Vector Graphics",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Pre-Press and Technical Support Technician",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives In Memory of Bill loy",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "October 13, 1936 – November 15, 2003",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Stuart Allan Allan Cartography",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "AllanCart@aol.com",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "sequence, and duotone shading treatment for each map individually. In",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Unusual Displays of DEMs",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "J. Ronald Eyton Department of Geography",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Texas State University San Marcos, TX",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "je09@txstate.edu ing the three procedures.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Introduction overlays.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "tance, September 2004 “This article describes",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "procedures for producing three",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "unique ways to visualize landforms as images or maps",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "derived from digital elevation",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "models (DEMs).” “Mars was chosen as the test",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "site for several reasons. Principal amongst these was",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "a geographer’s/cartographer’s curiosity, coupled with a",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "compelling need to view new landscapes.”",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives et al",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Selected Papers on Three-Dimensional Displays",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "“. . . when you are looking ‘standing’ on Mars!”",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "“. . . the circular grayscale mapping methodology . . . is",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "more firmly based on attempts to map directional data in",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "several forms including illuminated contours.”",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "“The tomographic mapping methodology presented in this",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "paper has its roots in image",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "‘Slice-Stacking Displays’ . . .”",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives five dollars.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "hillshades). General Methodology",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "processing was involved. “. . . and like many ideas",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "solution just recently presented",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "transformation in this paper.”",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "“The algorithms were coded",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": ". . .  and ‘styled’ so that they",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "could be included in a teaching",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "package of programs (TERRA",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "for use in undergraduate senior",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "level courses in digital remote",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "sensing and digital terrain modeling.”",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "“Two map projections that are easily implemented as raster",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "processing algorithms while",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "preserving the circular shapes of",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "craters were utilized to produce",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives DATA",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "SUBCON JOIN",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "FMR ENRED",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "RESOLVE RAW",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "MAPPING GRAY",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "CONTOUR - binary, edge, and illuminated contour maps",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "RGB PALETTE",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "MASK PROJECT",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "AGRAY ARGB",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "VOLMAP TRANSFORMATIONS",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ALGEBRA CONVO",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ACONVO DERIVE",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "STEREO LIGHT",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "FLOW DDM",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "STATISTICS COUNT",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "QCOUNT STATS",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "REGRESS EIGEN",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ASTATS IMAGE PROCESSING",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "SIPROC",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "components analysis, and simulated normal color",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "TRAIN CLASS",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "CONTEXT TRAIN2",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "CLASS2",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "algorithms given in this paper",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Table 1. TERRA FIRMA Package of Programs",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Circular Gray Scaling",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "extracted from a DEM is circular, varying from 0",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "ing directly opposite or 180",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "scaled systematically between 0 and 255 on either 180",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "following three step procedure:",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Step 1: Determine the absolute difference (AD) between each slope azi-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "AD = •SOLA - SLPA•",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "IF (AD > 180.) THEN AD = 360. - AD",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "255). GLV = 255 - [(AD/180) x 255]",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "“The resulting distribution extracted from a DEM is cir-",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "cular, varying from 0 o",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": ",",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "and therefore cannot be mapped",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "using conventional linear gray",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "scaling. A simple circular gray",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "distribution . . .” “The algorithm works for all",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "user selected solar azimuths and",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "all DEM derived slope azimuths including 0° and",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "360°.” a 315° illumination source.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "“. . . flat areas often are not",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "truly flat and consist of very",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "gently sloping regions that",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "show only very small variations",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "irregular distribution of down-slope directions or",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "azimuths. The result is a rough",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "or ‘bumpy’ looking plain when displayed as a circular gray",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "scale image. A comparison of an azimuthal circular gray",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "scale image to a conventional",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "hillshaded image explicates this",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "point.”",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives solar elevation (0",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Tomographic Mapping",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "(1984) offers this derivation - “",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Tomo tomos",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "a piece cut off “Emphasis on every break or",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "edge in the landforms, hallmark of the circular",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "grayscale display; no other mapping transformation that I",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "have used produces this level of",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "detail.”",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "“. . . the additive density of the",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "material makes it difficult to",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "The limiting number of sheets",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "controls the number of elevation",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "order to add contour lines equal",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "interval classes are required.”",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "elevation=45°. Projection is sinusoidal.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives thematic overlays.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "“. . . vertical exaggeration can",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "be increased by simply adding a blank transparency frame",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "slice . . .”",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "satellite scenes, land use maps,",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "temperature distributions etc.,",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "registered to a DEM, to produce",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "volumetric maps with black and",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "white, or color, thematic overlays.”",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Table 2. Elevation Classes for the Olympus Mons Tomographic Map",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Digital Distance Models",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "1/64 “A transformation that",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "converts the vertical height horizontal distance",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "distribution that I call a digital",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "distance model (DDM) provides measurements and displays.”",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives diagrams.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives tion.",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "“Contouring the DDM will produce a series of",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "cross-sectional profiles; gray",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "scaling the DDM will produce",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "the actual view, paintings, and",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "photographs of the various fore-",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "ground to background planes of",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "terrestrial foothills and mountains when observed",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "from afar.”",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Discussion",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "“Circular gray scaling of a slope",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "azimuth distribution should be",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "of value to investigators interested in examining",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "landform structures in great detail.”",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "b. Subset looking at the south wall of Mellas Chasma",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "needed to view these images. (see page 60 for color version)",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Benton, S. A. (Ed), 2001.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Selected Papers on Three-Dimensional Displays",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": ", SPIE ITC Journal",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Geo-Processing An-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "nals of the Association of American Geographers",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "The American Cartographer",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Cartography and Geographic Infor-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "mation Systems",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Journal of Research of the U. S. Geological Survey",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "1: 223-227.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Program Description and Availability Memorandum",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "for SYMVU 2:65-146.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic Relief Presentation",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "REFERENCES provide a unique horizontal",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "view of land surfaces but also",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "provide displays that might be",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "considered a form of cartographic art.”",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives nated Contour Method,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Cartography and Geographic Information Science",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "28-2: 111-123.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "PLOT3D Surface Drawing Subroutine",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Pennsylvania.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "New World Dictionary of the American Language",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "tomated Cartographic Data Handling,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "The American Cartographer 139.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "http://wwwpds.wustl.edu/missions/mgs/mola.html",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Display and Analysis of Spatial Data",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Sons. Profes-",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "sional Surveyor , July 2002:6-12.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Snyder, J. P., 1987. Map Projections A Working Manual,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "U. S. Geological",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Survey Professional Paper 1395",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "ton, D.C. on Maps,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Geographical Review",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Thelin, G. P., and Pike, R. J.,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Landforms of the Conterminous United States",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Investigation Map I-2206, 16p.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "The Ameri- can Cartographer",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": ", 10:101-110.",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Miscommunicating",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "With Isoline Preference Maps:",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Design Principles for Thematic Maps",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Daniel R. Montello Department of Geography",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "University of California, Santa Barbara",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "montello@geog.ucsb.edu M. Violet Gray",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "RBF Consulting Camarillo, California",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "vgray@rbf.com Mental Maps",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Psychometrics psychophysics",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Initial submission, May 2004; revised submission, November 2004; final",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "acceptance, November 2004 “Gould and White’s",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "cartographic displays provided",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "an early demonstration that subjective, intrapsychic",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "variables . . . could be thematically mapped, much as",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "one maps rainfall, population,",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "or criminal activity.”",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Lewis, 1993).",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "isoline areas are evident.",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "“Early in their research program, Gould and White",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "chose an appealing cartographic",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "technique for displaying their",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "preference data: the isoline",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "(or isarithm) map.”",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "“We believe that isoline",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "type of data primarily because it",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "produces misleadin impressions of intraregional",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "preference variations among viewers . . .”",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives “Should people be educated to",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "understand maps, or should",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "facilitate efficient and accurate",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "communication even among naive viewers?”",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "we support cartographic education, but we also support the inspira-",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "average pattern.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Criticisms of Gould and White’s Preference Mapping",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "“A variety of criticisms and suggestions for improvement",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "White’s ‘mental mapping.’”",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives “Other writers have also",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "ranking task used to generate preference data.”",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "important to consider when continuous mapping techniques",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "interpolation technique.”",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "respondents from California don’t know much about variation within the",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "rankings. McNamara",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "et al knowledge.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Preferred Approaches to Preference Mapping",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "could readily be misinterpreted. In both editions of",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Mental Maps “. . . many empirical studies",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "have demonstrated the categorical organization of",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "geographic knowledge, whether based on maps, language, or",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "direct experience of various kinds . . .”",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "“We believe preference are collected.”",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives et al",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": ", intra",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "“Ironically, Chernoff faces (Chernoff, 1973) might be an",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "unusually appropriate display technique for regional",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "preference data.” “Place preference is a useful",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "geographic concept that deserves continued",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "investigation; its assessment is",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "a valuable exercise to geographers.”",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives noff map.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "isometric and",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "isoplethic state ranks.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "ACKNOWLEDGMENTS NOTES",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Journal of the American Statistical Association",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Cartography: Thematic map design",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Psychological Review Journal",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "of Experimental Psychology: General",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Analytical behavioural geography",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Regional Studies Mental maps",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Memory and Cognition Thematische Kartographie",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "American Cartog- rapher",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "American Cartographer 14:299-320.",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Journal of Experimental Psychology: Human Learning and Memory",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "7:15-32.",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Journal of Experimental Psychology: Learning, Memory, and",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Cognition Cartography and Geographic",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Information Science Map use: Reading, analysis,",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "interpretation",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Cartographic design: Theoretical and",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "practical perspectives REFERENCES",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Psychometric theory",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": ", 3rd ed. New York: McGraw-Hill.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Slocum, T. A., 1999.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Thematic cartography and visualization",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "River, NJ: Prentice Hall. Sol, C. J., 1994.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Mental Map Depictions: Lines or Circles?",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Francisco, CA. Cognitive Psychology",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "ences. Professional Geographer",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "regions.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Journal of the American Statistical Association,",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "74:519-530. Annals of",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "the Association of American Geographers",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "People and environment: Behavioural",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "approaches in human geography mation in face perception.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Perception, 16:747-759.",
+      "page": 34
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Large-scale Topographic Web Maps",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Using Scalable Vector Graphics",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Peter Pavlicko Dept. of Cartography, GIS",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "and Remote Sensing Comenius University in",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Bratislava, Slovak Republic pavlicko@fns.uniba.sk",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Michael P. Peterson Dept. of Geography/",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Geology University of Nebraska",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "at Omaha mpeterson@mail.unomaha.",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "edu",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Initial submission, June 2004; revised submission, October 2004; final",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "acceptance, October 2004",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "“For cartography, the Internet",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "distribution of spatial data but",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "also new ways to present spatial",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "data.”",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Theoretical and Methodological Aspects",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "USGS Large Scale Topographic Maps",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "2003a). by",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "The National Map",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "mapping applications (including",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "“Raster formats, such as JPEG",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "criticized for use in Internet",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "cartography.” “This research proposes a",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "method for creating USGS primary series topographic",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "maps at a scale of 1:24,000 using the SVG format.”",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives The National Mapping Pro-",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "gram Digital Line Graph",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "(DLG) Digital Elevation Model",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "EarthExplorer",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "ftp://edcftp.cr.usgs.gov/pub/data/DLG/",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "LARGE_SCALE/ “Simply stated, XML is",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "based.” “It is clear that SVG is",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "becoming a very powerful tool for presenting spatial",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "information on the Web.”",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives attributes",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "DOM access, allowing customization with JavaScript",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "etc.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Bringing Large Scale Topographic Maps to the Web",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "tion of dynamic features. technology.",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "“Online, large scale topographic maps provide",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "many advantages for users.”",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "“Solutions based on client-side",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "architecture using open web standards technology like SVG",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "inexpensive way with reliable quality.”",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives “The findings would be very",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "useful for a database application",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "that would deliver high-quality",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "topographic maps on demand.” “The Digital Line Graph (DLG)",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "represents the initial source",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "of digital data for USGS large",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "scale topographic maps.”",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "and amount of SVG code. (see page 61 for color version)",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "symbology (USGS, 2003c). SVG Document Structure",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "“Conversion options for exporting processed data from",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "a GIS program to SVG differs between most commonly used",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "GIS programs.”",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives “Since the SVG topographic",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "map will be distributed via the",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "resultant file should be as small",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "as possible.” “The structure of the SVG",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "document has to fulfill certain",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "hierarchical object order . . .”",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives follows:",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "also grouped together. text.",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "surface). 3.3 Map Symbology",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "paper version of topographic maps.",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "elements: XML presentation attributes",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Inline CSS (Cascading Style Sheets) properties",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Internal CSS style sheet references",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "External CSS style sheet references",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "“To minimize code, relative",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "instead of absolute coordinates",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "were implemented . . .” “Based upon these standards,",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "symbology for map objects in version of topographic maps.”",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives symbol’",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "use’ page 62 for color version)",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "“For example, a point feature,",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "like a church or a spot height, is",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "can be later referenced as many",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "times as needed.” “Interactive features",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "implemented in the SVG map",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "extend the map possibilities.”",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "DOM (Document Object Model). Basic interactivity with the SVG map,",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "etc. Results and Discussion",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "developed using ECMAScript. (28.8kB/s).",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "“Basic interactivity with the SVG map, such as zooming,",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "panning, and resetting",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "(returning to the original view)",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "SVG Viewer . . .” “This SVG implementation was",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "created using open-standard",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "and open-source tools including",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "GRASS GIS, SVG, XHTML and JavaScript (ECMAScript).”",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives color version)",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Figure 7. The area of the SVG map project (grey color) on the",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "7.5-minute quadrangle map (North Omaha, NE). The area",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "maximum, approximately only",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "one quarter of a topo-sheet is",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "appropriate for presentation through the Web.”",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives research.",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Held, G., Ullrich, T., Neumann, A., Winter, A.M., 2004. Comparing .SWF",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "son_flash_svg/",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Web Cartography: Developments and Pros-",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "pects . London: Taylor and Francis.",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "able [Online]: interactive_topographic_maps/",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Open-Source Database Technology.",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Proceedings from SVG Open Conference,",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Vancouver 2003",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": ". Available [Online]: http://www.svgopen.org/2003/pa-",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "es/index.html",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Vector-based Web Cartography: Enabler",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "SVG e.sthml",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Internet GIS Sons.",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Proceed- bly of ICA, Ottawa, Canada",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Maps and the Internet SVG, 2003. –",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Scalable Vector Graphics (SVG) 1.1 Specification",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "line]: http://www.w3.org/TR/SVG11/",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "USGS, 2003a. Topographic Mapping",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "http://erg.usgs.gov/isb/pubs/booklets/topo/topo.html",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "REFERENCES",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "“To distribute topographic maps",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "encompassing many map sheets using SVG, it would be",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "necessary to create a database",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "that could distribute small parts",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "of an individual topographic map on demand.”",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives USGS, 2003b.",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "National Mapping Program Standards",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": ". Available [Online]:",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "National Mapping Program Standards, Primary Series Quadran-",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "gle Map Standards",
+      "page": 47
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives cartographic",
+      "page": 48
+    },
+    {
+      "level": "H1",
+      "text": "techniques",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Pre-Press and Technical Support",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Technician Mark Loppnow",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Image Systems, Inc. N94 W14530 Garwin Mace Drive",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Menomonee Falls, WI 53051 mloppnow@imagesystems.biz",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Creating effective, high quality",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "maps takes a great amount of",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "research in terms of map content,",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "design, and production. Car-",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "most complex digital files using",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "a broad array of the functions",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "in Illustration, Page Layout and",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "GIS software. Because maps are",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "commonly complex and require",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "high quality output, cartographers",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "often present challenging graphic",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "technician, the following topics",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "relate to the preparation of graphic",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "interest to cartographers:",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "1. File formats that are acceptable",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "to the printer",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "2. Font formats, as well as a little",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "font history",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "3. Color trapping for the printing",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "industry FILE FORMAT DESCRIPTIONS",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "There are several acceptable file",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "formats that may be submitted to",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "a printer for final publication. This",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "section discusses these formats in",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "terms of broader categories and",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "conveys issues about these varying",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "formats as they relate to publish-",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "ing maps.",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Customer’s Software Application’s",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Native Format PostScript Based Formats",
+      "page": 48
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "electronic transfer; although this",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "depends heavily on the software",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "that creates the EPS file. Because",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "EPS files may include and embed",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "manage when it comes to sup-",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "plying the printer with the files",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "needed to complete your project.",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "dependent form of the PostScript",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "use because it allows a wider",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "range of design features to be",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "included and interpreted, like gra-",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "dients. However, EPS still requires",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "care in providing fonts to the",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "printer because they often cannot",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "large maps or maps that contain",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "high-resolution images, EPS files",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "can still be very large files. Finally,",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "EPS files are very difficult to edit",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "a curse. Portable Document Format",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "(PDF) Files:  The size of PDF files",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "of several levels of compression.",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "files. No fonts or images files need",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "the PDF is prepared by embed-",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "ding that information, which also",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "compresses it. Furthermore, PDF",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "files may be produced such that",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "some degree of editing is possible,",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "particularly with Adobe products.",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "PDF’s can also be used for soft",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "proofing (on monitor), as well as",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "the ability to prepare print quality",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "files for hard proofing and print-",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "ing. See Burnett, 2004 for details on",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Publishing maps using the lat-",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "est version of PDF, which is 1.6 is",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "recommended because many past issues with PDF were improved",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "expertise to handle even the most",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "advanced of design elements. File Format Strategies",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "FONT FORMATS PostScript Fonts",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "3 font was introduced in 1984 TrueType Fonts",
+      "page": 49
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Screen font for display, and a",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Printer font for printing. The",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "software that displays or draws",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "TrueType fonts on a computer",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "screen has special code to create",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "type face effects like Bold, Italic,",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "etc. Third, TrueType fonts allow",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "for greater complexity in hinting",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "of characters for on screen display",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "increasingly important as web use",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "grew in the late 1990’s. OpenType Fonts",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "OpenType fonts were invented by",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft Inc., and Adobe Sys-",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "tems Inc., and were introduced",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "in 1997. OpenType fonts were",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "developed to address the incom-",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "patibility problems of Postscript",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "and TrueType fonts across Ma- cintosh and Windows operating",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "systems. OpenType fonts can con-",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "tain either PostScript or TrueType",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "font outlines (font names are",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "suffixed .otf or .ttf respectively)",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "single, cross-platform file.  The",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": ".otf format seems to work best for",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "cross-platform use. Like TrueType,",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "OpenType is based on Unicode and therefore may contain as",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "many as 65,000 glyphs for many",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "languages, and may include:  old-",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "style figures, true small capitals,",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "fractions, swashes, and a full",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "range of ligatures. While OpenType fonts are",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "clearly the strongest choice from",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "an economic and file management",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "standpoint, the old adage of don’t",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "fix something that isn’t broken",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "still definitely applies.",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "One critical issue with fonts is",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "typeface is identical. For instance",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "archives at Image Systems, Inc.",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "show there are four different ver-",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "When publishing the printer",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "fonts supplied by the map maker",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "should be used. COLOR TRAPPING",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "version)",
+      "page": 50
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "of another color, resulting in an",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "additive color. This is not desired",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "at times. Note the color created",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "yellow in the upper left portion",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "of Figure 1. Even when using a",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "customer’s application trapping",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "setting, the printer may choose",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "to globally overprint black auto-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "printers software by making your",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "blacks that must not overprinted",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "100-k 1-c 1-m 1-y. Make heavy",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "solid black areas 100-k 40-c for a",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "deep rich black. Trap these as a",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "normal color. Knockout-one color",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "‘knocks out’ the color underneath,",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Sometimes projects require",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "special trapping regimes in order",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "tographer has a full understanding",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "of trapping, manually trapping in",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "the applications can give desired",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "results better than automatic trap-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "ing. CONCLUSIONS",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Knowledge is the key to work-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "ing successfully with printers and",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "prepress departments. This article",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "common practices and best meth-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "ods for cartographers to use when",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "map. However, this article is really",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Map makers should educate themselves prior to designing",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "their map and especially prior to",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "visiting their printer. Check out",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "trade publications that publish",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "techniques such as The Journal",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "of Electronic Publishing ,",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "American Printer",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "magazine, High Volume",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Printing Graphic Arts Monthly",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "and Newspapers and Technology",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "For working successfully in color",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "managed environments consult",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "reference books such as the GATF",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Practical Guide to Color Manag-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "ment and Understanding Color Management by Abhay Sharma.",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "REFERENCES Cartographic Perspec-",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "tives map library",
+      "page": 51
+    },
+    {
+      "level": "H1",
+      "text": "bulletin board",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Penn State University Libraries:",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Literary Map of Pennsylvania",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Literary Map of Pennsylvania Adobe Il-",
+      "page": 51
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "lustrator, Photoshop, ArcView 3.2",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": ", USGS Digital Elevation Models",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "(DEM), and the royalty-free data",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "set, MapArt USA",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": ". Karen Schwent- ner, the Web developer, used",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "Flash and",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ColdFusion MX database. Macromedia’s",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "animation software was chosen",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "its ability to deliver both raster",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "and vector images efficiently, be-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "cause it dramatically reduced the",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "amount of time spent in design",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ported by both Internet Explorer",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "Netscape. Flash scripting language,",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ActionScript JavaScript",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "dynamically integrate with Web",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "applications. The state-level map was de-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "veloped from a stock vector map",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "from Map Art Deluxe-USA",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "Illustrator",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "fy the map’s color scheme and cre-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ate the heavy, county borders. The",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "thumbnail images were optimized",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "with Photoshop",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "and then imported into",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": ", along with the map. It",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "took considerable time and effort",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "to reduce sixty-seven (67) poly-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "gons, seventy plus (70+) images,",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "and a considerable amount of text",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "into a page of reasonable size. File",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "size was an important issue with",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "this project since the site is aimed",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "towards classroom use and the",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "general public with the expecta-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "tion that neither group is likely to",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "have access to high-speed internet",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "connections. The state-level maps with",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "highlighted county boundaries",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "were created in a similar man-",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ner, except the base maps were",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "created from several data sources",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "in ArcView",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "before being imported . For aesthetic and",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "educational reasons, literary",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "information as well as geographic",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "physical relief base. The down",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "necessitated large file sizes with",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "Flash. Server",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "ColdFusion Studio, alt",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "tags Literary",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "Map of Pennsylvania Flash, ColdFusion,",
+      "page": 52
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "talented and dedicated people to",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "produce an on-line literary map it",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "is well worth the effort. References",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Books Hopkins, Martha and Michael",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Buscher.",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Library of Congress Book of Literary",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Maps",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": ". Washington, D.C.: Library of",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Congress, 1999. Swan, Elizabeth M.",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Literary Map of Pennsylvania",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": ". [map]. Scale not",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "given. [Harrisburg, PA?]: Penn-",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "sylvania Council of Teachers of",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "English, 1959. Web sites",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Library of Congress, The Center",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "for the Book , , <http://www.loc.",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "gov/cfbook> (21 July 2003)",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Pennsylvania Center for the Book,",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Welcome to the Pennsylvania",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Center for the Book <http://www.",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "pabook.libraries.psu.edu>. reviews",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Connecting Our World: GIS Web 164 pages, numerous color",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "ISBN 1-58948-075-9 Reviewed by David Broscoe,",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "GIS Technology Programs, Algonquin College",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "Ottawa Connecting Our World",
+      "page": 53
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "chapters five, six and twelve.",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "Chapter five describes the Na-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "tional Land Information Service",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "(NLIS), a joint initiative of UK",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "national and local governments.",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "service whose aim is to “speed",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "up delivery of publicly held land",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "and property information used in",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "land searches” (p 74). The service",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "is designed to facilitate informa-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "tion transfer between lawyers and",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "information services such as water",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "authorities, cable companies and",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "local authorities. This e-commerce",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "application incorporates a means",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "of distributing fees for services",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "to appropriate organizations depending on the information",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "provided. Chapter six describes a com-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "mercial real estate application in",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "the Southeast Asian market. The",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "application allows a private orga-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "nization to manage and serve cur-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "rent real estate information about",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "a volatile property market over",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "a wide geographic area. Chapter",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "twelve discusses an American ser-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "vice providing real estate informa-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "tion to potential homebuyers. Chapters seven and eight de-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "scribe real-time tracking applica-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "GPS, as ‘even without GPS, the",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "location of a mobile phone user",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "can be pinpointed to within fifty",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "meters’ (p 97).  Chapter seven",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "outlines the Icelandic company",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "Trackwell’s initial application to",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "monitor the location of seagoing",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "Icelandic Life Saving Associa-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "ramifications of this surveillance",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "technology: …it quickly became clear that",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "this technology could be expand-",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "ed to help monitor and manage",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "all fishing activity around Iceland.",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "… For [fisheries] organizations,",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "monitoring the location and status",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "of fishing vessels would help",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "surveillance and enforcement of",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "agreements (p 99) Ground Truth",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "Digital Places",
+      "page": 54
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Second, visualization and",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "representation issues are barely ad-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "dressed. To give a simple example,",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "the Web poses a number of specific",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "hurdles to ‘optimal’ representation,",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "ity of browsers and platforms that",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "map viewers may be using. In that",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "what a given user sees optimally",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "represents the data? No doubt the",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "authors could argue that these",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "issues were not within the man-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "date of the book, but Peterson’s",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "Maps and the Internet strikes me as",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "proach to the subject.",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "critical approach, neither does it",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "function as a technical manual.",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "a lot to know. One could decide",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "acronyms that may be encountered",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "enough information to attempt an",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "actual implementation. The book",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "and software configurations for",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "energy involved in creating the",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "applications. In addition, WebGIS",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "is a volatile technology. Very likely",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "common issue for all books that",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "discuss the technical implemen-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "tation of a rapidly developing",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "technology.",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "A last observation, an issue that",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "is common to most ESRI Press",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "scribed applications involve ESRI",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "commercial vendors nor the battle",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "between Open Source and propri-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "etary software are mentioned.",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "Overall the, book is well pro-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "duced and reasonably well writ-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "Con- necting Our World",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "A Railroad Atlas of the United",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "Reviewed by Fritz C. Kessler, Frost-",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "burg State University.",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "1:250,000 map series of this region",
+      "page": 55
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "posefully kept scare to reduce each",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "map’s complexity, allowing for the",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "important railroad information",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "to emerge. In compiling the base",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "information, it appears as though",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "Carpenter took a series of colored",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "markers and traced the relevant",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "information directly from the vari-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "ous base map sources. Individual",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "abandoned in 1946 are identified",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "by one of nine colors. Carpenter",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "states that the colors to illustrate",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "each rail line were chosen accord-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "ing to any historical association",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "to a particular railroad logo. For",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "example, the color chosen to illus-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "trate the Baltimore & Ohio railroad",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "The corresponding railroad name",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "is shown in black text attached to",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "the rail line. Symbols for passenger",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "and non-passenger stations located",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "Mile post values, names for tun-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "nels, viaducts, coaling stations, and",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "Names of interlocking towers are",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "shown in purple text. The adjoin-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "ing map numbers are listed in the",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "margins of each page facilitating",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "the location of adjacent maps in",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "the atlas. Each map covers 30 minutes",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "of longitude and latitude (values",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "are shown at each map corner),",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "which facilitates comparing the",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "1:250,000 series but also to other",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "widely published maps. Where ap-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "propriate, tic marks for 15 minute",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "divisions are included inside each",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "map. The atlas maps are pre-",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "sented at an approximate scale of",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "1:270,000. Each atlas map is named",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "according to a prominent railroad",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "station found on each map. This",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "naming convention permits the",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "map user to quickly find a specific",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "atlas map on the index map. The",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "maps are arranged from west to",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "are also numbered sequentially in",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "this fashion. Thus, the first map in",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "7.5 minutes of latitude and longi-",
+      "page": 56
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Lake Erie in a light brown. But",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "due to the uneven ink flow, the",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "almost disappears (you can even",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "tell where Carpenter stopped and",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "started tracing most line seg-",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "ments). In a similar light, the map",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "of Scranton, PA (map 35) uses an",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "orange ink to highlight the rail",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "lines of Lehigh Valley. Again, due",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "orange line becomes washed out",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "gested areas on the map it becomes",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "difficult to distinguish the Lehigh",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Valley line from the Delaware and",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Hudson line (shown in brown)",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "and the Pennsylvania Railroad line",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "(shown in red). The poorly drawn",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "linear features. For instance, on",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "the map of Newark, NJ, (map 53)",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "some of the county boundary lines",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "are smudged, vary in their thick-",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Newark, NJ (map 53A), the Lehigh",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Valley line running parallel to the",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Pennsylvania Railroad on the far",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "right side of the page simply fades",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "away. The maps also demonstrate",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "examples of inconsistently pro-",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "duced linework. For, instance, the",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "shorelines representing Newark",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "Bay shown on the Newark, NJ map (map 53) have gaps along",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "drawn. In another part of this",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "same map, there are errant blue",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "lines drawn on the left side of the",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "page. Inconsistent linework is also",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "found on the Philadelphia, PA map (map 82A). Examining map",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "82A, one is struck by the varia-",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "tions in line thickness for the rail",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "lines. As an example, sections of",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "the Pennsylvania Railroad are",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "drawn using a thinner line. I as-",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "sume that the thinner linework",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "represents sidings or rail yards,",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "sertion. Unfortunately, examining",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "the explanation of map symbol",
+      "page": 57
+    },
+    {
+      "level": "H2",
+      "text": "page, one finds no clues as to",
+      "page": 57
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "railroad historians relying upon",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "the atlas to provide a condensed",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "reference for visualizing the rail",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "researching individual railroads as",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "they existed during this time pe-",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "riod. On the other hand, coupled",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "region in the Mid-Atlantic States,",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "rail-fans would enjoy tracing",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "where their favorite railroad line",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "traveled. Even model railroaders,",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "who might want to model a section",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "existed during 1946, would benefit",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "perusing this atlas. However, car-",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "tographers seeking well designed",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "maps in a railroad atlas would be",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "advised to look elsewhere.",
+      "page": 58
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "Cordillera Huayhuash, 1:50,000",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "Designed by Martin Gamache",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "Alpine Mapping Guild",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "alpinemappingguild@earthlink.net",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "visual fields",
+      "page": 59
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Cordillera Huayhuash, 1:50,000",
+      "page": 60
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives Unusual Displays of DEMs",
+      "page": 61
+    },
+    {
+      "level": "H1",
+      "text": "Large-scale Topographic Web Maps Using Scalable Vector Graphics",
+      "page": 61
+    },
+    {
+      "level": "H1",
+      "text": "Pre-Press and Technical Support Technician",
+      "page": 61
+    },
+    {
+      "level": "H1",
+      "text": "color figures needed to view these images.",
+      "page": 61
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 62
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 63
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 64
+    },
+    {
+      "level": "H1",
+      "text": "cartographic perspectives",
+      "page": 65
+    }
+  ]
+}

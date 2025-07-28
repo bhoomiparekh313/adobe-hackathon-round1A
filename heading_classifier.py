@@ -4,16 +4,19 @@ import string
 from sklearn.cluster import KMeans
 from nltk.corpus import stopwords
 
-# Precompute for speed (vectorized lookups)
 STOPWORDS = set(stopwords.words("english"))
+BULLET_CHARS = {"•", "-", "—", "·", "*"}
+
+EMAIL_REGEX = re.compile(r'\b[\w.-]+@[\w.-]+\.\w{2,7}\b')
+LONG_DIGITS_REGEX = re.compile(r'\b\d{6,}\b')
 
 def cluster_font_sizes(spans):
     font_sizes = np.array([span["size"] for span in spans]).reshape(-1, 1)
+    if len(font_sizes) == 0:
+        return {}, None
     unique_sz = np.unique(font_sizes)
     k = min(3, len(unique_sz))
-    if k < 1:
-        return {}, None
-    if len(unique_sz) == 1:
+    if k == 1:
         return {0: "H1"}, None
     kmeans = KMeans(n_clusters=k, n_init=10, random_state=42)
     labels = kmeans.fit_predict(font_sizes)
@@ -23,89 +26,189 @@ def cluster_font_sizes(spans):
         span["cluster"] = labels[i]
     return size_to_level, kmeans
 
-def batch_stopword_ratio(text_list):
-    ratios = []
-    for text in text_list:
-        tokens = [t.lower().strip(string.punctuation) for t in text.split()]
-        if not tokens:
-            ratios.append(0.0)
+def stopword_ratio(text):
+    tokens = [t.lower().strip(string.punctuation) for t in text.split()]
+    if not tokens:
+        return 0
+    sw_hits = sum(1 for t in tokens if t in STOPWORDS)
+    return sw_hits / len(tokens)
+
+def is_noise_text(text):
+    """Detect high-noise lines: mostly symbols/numbers, emails, or gibberish."""
+    stripped = text.strip()
+    if not stripped:
+        return True
+
+    # Too many symbols or digits >50%
+    symbols_digits = sum(1 for c in stripped if not c.isalnum())
+    if symbols_digits / max(len(stripped), 1) > 0.5:
+        return True
+
+    # Contains email or long digit string
+    if EMAIL_REGEX.search(stripped) or LONG_DIGITS_REGEX.search(stripped):
+        return True
+
+    # Too short non-alpha fragment
+    if len(stripped) < 4 and not any(c.isalpha() for c in stripped):
+        return True
+
+    return False
+
+def is_heading_candidate(span, level, is_title_area=False):
+    text = span['text']
+    # Basic text filters
+    if len(text) < 4:
+        return False
+    if any(text.lstrip().startswith(b) for b in BULLET_CHARS):
+        return False
+    if all(c in BULLET_CHARS for c in text):
+        return False
+    if re.fullmatch(r"\d{1,4}", text):
+        return False
+    if is_noise_text(text):
+        return False
+
+    # Title area special pass (usually top of page 1 large font)
+    if is_title_area and level == "H1" and span["size"] >= 16:
+        return True
+
+    # Style cues
+    bold = (span["flags"] & 2) != 0
+    italic = (span["flags"] & 4) != 0
+    caps = text.isupper() and len(text) > 4
+    leftish = span["bbox"][0] < 100 or (90 < span["bbox"][0] < 220)
+    centered = 90 < span["bbox"][0] < 300
+    big_gap = span["spacing_above"] > 10
+
+    # Sentence/run-on checks
+    too_long = len(text) > 78
+    many_words = len(text.split()) > 10
+    ratio = stopword_ratio(text)
+    runs_on = (
+        text.endswith(".") or
+        text.endswith("?") or
+        text.endswith("!") or
+        (many_words and ratio > 0.50) or
+        (len(text.split()) >= 4 and ratio > 0.65)
+    )
+    numbered_long = bool(re.match(r"^[0-9]+(\.[0-9]+)*", text)) and many_words
+    bulletlist = text.lstrip().startswith(tuple(BULLET_CHARS)) and not bold
+    awkward = text.endswith(",") or text.endswith(";") or ".." in text
+
+    # Scoring heuristics
+    score = 0
+    if level == "H1":
+        score += 3.2
+    elif level == "H2":
+        score += 1.8
+    elif level == "H3":
+        score += 1.3
+
+    if span["size"] >= 13.5:
+        score += 0.8
+    if bold:
+        score += 1.3
+    if caps:
+        score += 0.8
+    if big_gap:
+        score += 1.0
+    if leftish or centered:
+        score += 0.4
+    if italic:
+        score += 0.3
+    if len(text) < 53:
+        score += 0.3
+    if bool(re.match(r"^[0-9]+(\.[0-9]+)*(\s+|[.:])", text)):
+        score += 0.3
+
+    # Penalties
+    if too_long:
+        score -= 2.0
+    if awkward:
+        score -= 1.3
+    if bulletlist:
+        score -= 2.2
+    if numbered_long:
+        score -= 1.7
+    if runs_on:
+        score -= 1.7
+
+    return score >= 3.3
+
+def batch_assign_headings(spans, size_to_level):
+    headings = []
+    seen = set()
+    max_firstpage_y = min(350, max((s['line_y'] for s in spans if s['page'] == 1), default=350))
+
+    h1_seen_pages = set()  # To allow only one H1 on first page and limit others
+
+    for span in spans:
+        level = size_to_level.get(span.get("cluster", 999), None)
+        is_title_spot = (span['page'] == 1 and span['line_y'] < max_firstpage_y)
+        if not level or level not in {"H1", "H2", "H3"}:
             continue
-        sw_hits = sum(1 for t in tokens if t in STOPWORDS)
-        ratios.append(sw_hits / len(tokens))
-    return np.array(ratios)
+        if level == "H1":
+            # Limit H1 to only first page and once, or if big gap on others
+            if span['page'] != 1:
+                # Disallow H1 on pages >1 (except very rare special case)
+                continue
+            if 1 in h1_seen_pages:
+                continue
+            h1_seen_pages.add(1)
 
-def classify_headings(spans, size_to_level, min_score=3.0):
-    # Precompute all features in bulk for speed
-    texts = [span["text"] for span in spans]
-    lengths = np.array([len(t) for t in texts])
-    sw_ratios = batch_stopword_ratio(texts)
-    is_bold = np.array([(s["flags"] & 2) > 0 for s in spans])
-    is_italic = np.array([(s["flags"] & 4) > 0 for s in spans])
-    is_caps = np.array([t.isupper() and len(t) > 2 for t in texts])
-    short_line = lengths <= 55
-    leftish = np.array([s["bbox"][0] < 150 for s in spans])
-    big_gap = np.array([s.get("spacing_above", 0) > 14 for s in spans])
-    too_long = lengths > 70
-    numbered = np.array([bool(re.match(r"^[0-9]+(\.[0-9]+)*(\s+|[.:])", t)) for t in texts])
-    endsdot = np.array([t.lower().endswith(".") and len(t.split()) > 5 for t in texts])
+        if is_heading_candidate(span, level, is_title_area=is_title_spot):
+            text = span["text"].strip()
+            if len(text) < 4:
+                continue
+            # Skip repeated "Document Title – Page N" style headers after first appearance
+            if re.match(r"Document Title\s*[-–]\s*Page \d+", text, re.I):
+                if span['page'] != 1:
+                    continue
 
-    # font levels
-    levels = np.array([size_to_level.get(s.get("cluster", 0), None) for s in spans])
-    score = (
-        2.5*(levels=="H1") + 2.0*(levels=="H2") + 1.5*(levels=="H3") +
-        1.0*is_bold + 0.7*is_caps + 0.2*is_italic + 0.5*short_line +
-        0.3*(leftish | numbered) + 0.7*big_gap + 0.4*numbered - 1.0*too_long
-    )
-    # 1. Strict exclusion for trash/bullets
-    garbage = np.array(
-        [t.strip() in ["•", "-", "—", ".", "·", "…", "*"] or
-         t.strip().startswith(("•", "-", "–")) or
-         (re.fullmatch(r"[0-9]+", t.strip()) is not None)
-         for t in texts])
-    too_sentence = (sw_ratios > 0.5) & (np.array([len(t.split()) for t in texts]) > 3)
-    endsdot = (endsdot)
-    too_longish = too_long
-    long_numbered = np.array([
-        bool(re.match(r"^\d+(\.\d+)*", t)) and len(t.split()) > 8 for t in texts
-    ])
-    # Mask for acceptable headings
-    keep = (
-        (score >= min_score) &
-        (levels != None) &
-        (~garbage) &
-        (~too_sentence) &
-        (~endsdot) &
-        (~long_numbered) &
-        (~too_longish)
-    )
+            sig = (text, level, span['page'])
+            if sig in seen:
+                continue
+            seen.add(sig)
+            headings.append({
+                "level": level,
+                "text": text,
+                "page": span['page'],
+                "y": span["line_y"]
+            })
+    # Postprocess: merge and dedupe intelligently
+    return postprocess_headings(headings)
+
+def postprocess_headings(headings):
+    if not headings:
+        return []
+    cleaned = []
+    skip = False
+    N = len(headings)
+    for i, h in enumerate(headings):
+        if skip:
+            skip = False
+            continue
+        if i + 1 < N:
+            h2 = headings[i + 1]
+            if (
+                h["page"] == h2["page"] and
+                h["level"] == h2["level"] and
+                len(h["text"]) < 30 and not h["text"].endswith((".", "?", "!")) and
+                len(h2["text"]) < 30 and not h2["text"].endswith((".", "?", "!")) and
+                abs(h["y"] - h2["y"]) < 20
+            ):
+                merged = h["text"].rstrip() + " " + h2["text"].lstrip()
+                cleaned.append({"level": h["level"], "text": merged.strip(), "page": h["page"]})
+                skip = True
+                continue
+        cleaned.append({"level": h["level"], "text": h["text"], "page": h["page"]})
 
     seen = set()
-    out = []
-    for idx, s in enumerate(spans):
-        if not keep[idx]:
+    final = []
+    for h in cleaned:
+        sig = (h["text"].lower(), h["level"], h["page"])
+        if sig in seen or len(h["text"]) < 4:
             continue
-        lv = levels[idx]
-        sig = (texts[idx], lv, s['page'])
-        if sig in seen: continue
         seen.add(sig)
-        out.append({"level": lv, "text": texts[idx].strip(), "page": s['page']})
-
-    # Merge consecutive short headings
-    out = merge_split_headings(out)
-    return out
-
-def merge_split_headings(headings):
-    merged = []
-    skip_next = False
-    for i, h in enumerate(headings):
-        if skip_next:
-            skip_next = False
-            continue
-        if i+1 < len(headings):
-            if (h['page'] == headings[i+1]['page'] and len(h['text']) < 30 and len(headings[i+1]['text']) < 30):
-                combined = h['text'] + " " + headings[i+1]['text']
-                merged.append({"level": h["level"], "text": combined.strip(), "page": h["page"]})
-                skip_next = True
-                continue
-        merged.append(h)
-    return merged
+        final.append({"level": h["level"], "text": h["text"], "page": h["page"]})
+    return final
